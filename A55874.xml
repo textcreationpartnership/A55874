@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Primitive Christians bearing their testimony for God in times of persecution being some sentences of Tertullian and others taken out of a book called The mirrour of martyrs ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55874</idno>
+            <idno type="STC">Wing P3470</idno>
+            <idno type="STC">ESTC R24069</idno>
+            <idno type="EEBO-CITATION">07944602</idno>
+            <idno type="OCLC">ocm 07944602</idno>
+            <idno type="VID">40640</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55874)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40640)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1211:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Primitive Christians bearing their testimony for God in times of persecution being some sentences of Tertullian and others taken out of a book called The mirrour of martyrs ...</title>
+                  <author>Cotton, Clement. Mirrour of martyrs.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian martyrs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:40640:1" rendition="simple:additions"/>
+            <head>THE Primitive Chriſtians Bearing their Teſtimony for God in Times of PERSECUTION: BEING Some Sentences of <hi>Tertullian</hi> and others, taken out of a Book, called, <hi>The Mirrour of the Martyrs:</hi> How that the Crimes which of Old were objected againſt the <hi>Chriſtians,</hi> were, <hi>That they frequented Se<g ref="char:EOLhyphen"/>ditious Meetings and Conventicles,</hi> and that <hi>they would Rebel againſt their Superiours:</hi> And the Judges and Juſtices grew incenſt againſt them, and would not hear their juſt Pleas; therefore <hi>Tertullian</hi> com<g ref="char:EOLhyphen"/>plained, ſaying:</head>
+            <p>THus are our Adverſarys affected towards us, that they condemn our cauſe before it be heard; which if it were equally heard, could not be condemned by them: But is there any thing more unjuſt, then to hate that which is not known, ſeeing then Men hate what they know not, why ſhould it not be granted us to follow that we know, and being known could not be ſo maligned as it is? It is not permitted to <hi>Chriſtians</hi> to have their cauſe publickly heard, wherein (he ſaid) their Blindneſs appeared that accuſed us as Evil-doers, but the cauſe of Malefactors is heard, ſifted and pleaded, only to <hi>Chriſtians</hi> it is denyed, not being ſuffered to utter that which would make their cauſe underſtood, nor to defend the Truth, which hinders the Judge from ſhewing himſelf juſt. But ſeeing the truth condemns that, which Men impoſe upon us their laſt refuge is (ſee Tertu.) to blear our Eyes with the Authority of their Laws, which ſay they, <hi>muſt not be repealed,</hi> (ſaith he) As touching the Law they ſpeak of, may not Men fail in framing Laws, and therefore correct and repeal what they have Enacted? doth not experience dayly manifeſt ſo much that antient Laws are abrogated by Enacting of new? Thence it follows (ſaith he) that neither length of time, nor Authority of the Law makes Laws to be good, but only ſuch as are grounded upon Juſtice and Equity; juſtly then (ſaith he) may that Law be ſuſpected for bad, if it will not ſuffer it ſelf to be tryed; and is unjuſt, if not being examined, it yet takes place.</p>
+            <p>As for <hi>Antiquity,</hi> againſt which you tell us we <hi>Chriſtians</hi> tranſgreſs; as there was a complaint againſt the <hi>Chriſtians, That ſuch Phantaſtical ſingularity was amongſt them, that thoſe things which their Elders had received and allowed, they rejected and diſ<g ref="char:EOLhyphen"/>allowed, deviſing every man ſuch Laws as they thought good, and obſerve the Same, Aſ<g ref="char:EOLhyphen"/>ſembling together great multitudes of people.</hi> "Saith Tertullian you make <hi>Anti<g ref="char:EOLhyphen"/>quity</hi> "your <hi>God,</hi> and yet you your ſelves from day to day Live as you liſt hold<g ref="char:EOLhyphen"/>ing "that faſt which you ought to forgo, forſaking that which you ought to retain. And as for thoſe Crimes that were Objected Againſt them, <hi>that they did frequent Seditions Meetings and Conventicles, and that they would rebell againſt their Superiors, and that their Aſſemblies were unſeemly in ſecret.</hi> And they reflected upon them as to their <hi>Poverty, And that they offended the Majeſty of Princes becauſe they did not give them honours which</hi> were vaine flatterings or raſh; And therefore they Accounted
+<pb n="2" facs="tcp:40640:2"/>them as unfit members of their common wealth, being Angry with them becauſe their number Increaſed, upbrading the Chriſtians, ſaying, now we ſhall have every Age, Sex and condition and eſtate take unto them the title of a Chriſtian, and they grew ſo angry that the Emperour was ſtired up, who did Appear ſomewhat favour<g ref="char:EOLhyphen"/>able to the Chriſtians a while, but afterward Altered and ſent forth ſo terrible an Edict that according to the forewarning of the Lord the Elect (if it had been poſ<g ref="char:EOLhyphen"/>ſible) might have been Subverted; And upon this Edict (ſee Ter.) Came ſuch fear over us all, that many there were eſpecially of the Richer ſort came running and ſome were drawn by their neighbours being Cited by name to their Idollitrous worſhip: and other ſome came ſhaking and trembling as men not which ſhould do ſacrifice, but that ſhould be ſacrificed themſelves (being ſmote by the witneſs of the Lord in their hearts, for ſo doing) the multitude laughing them to ſcorn; And others Came boldly with a lie in their Mouthes, declaring that they never were of that profeſſion, of whom it was ſaid that they ſhould hardly ever be ſaved; of the Reſidue ſome followed one part, ſome another, ſome ran away and ſome were taken, of whom certaine continued to bands and torments conſtant; others again after long impriſonment before they ſhould come before the Judg Renounc<g ref="char:EOLhyphen"/>ed their faith, ſome alſo after they had ſuffered torments, yet after revolted but o<g ref="char:EOLhyphen"/>thers being as ſtrong as bleſſed &amp; valient pillers of the Lord, fortified with conſtan<g ref="char:EOLhyphen"/>cy, Agreeing to their faith, were made faithfull Martyrs of the Kingdom of God.</p>
+            <p>And <hi>Arnobius</hi> ſaith, that in leſs then 30 days were Martyred in divers provin<g ref="char:EOLhyphen"/>ces about 20000 Perſons, Chiefly becauſe of their Aſſemblies. And the Emperor <hi>Valeranus</hi> put forth a Proclamation <hi>forbiding the Meetings of the Chriſtians:</hi> And commanded all good Chriſtians to be baniſht out of the Land, whereof there were exceeding many, yet it is ſaid thoſe that did remaine met in troops, which the Emperor hearing ſent for the Provoſt, and ſtruck him for not quite ridding the Coun<g ref="char:EOLhyphen"/>try of them, and gave him a ſtrict order, <hi>To go to their Aſſemblies and put them all to the Sword.</hi> So the <hi>Provoſt</hi> went at the time and place where the <hi>Chriſtians</hi> Aſſembled (ſending to the <hi>Chriſtians</hi> ſecretly to give them notice Aforehand that they might forbear meeting, being loath to Execute ſuch a bloody command, but the <hi>Chriſtians</hi> were ſo far from forſaking the Aſſembling themſelves together (although it was at ſuch a perilous time) that they came flocking from all parts, fearing leſt their bre<g ref="char:EOLhyphen"/>thren ſhould ſuffer without them, amongſt the reſt a woman poſted very faſt through the ſoldiers, with her Little Child in her Armes, which the <hi>Provoſt</hi> per<g ref="char:EOLhyphen"/>ceiveing ſpake to her ſaying, <hi>Woman whither poſteſt thou ſo faſt? I am going ſaid the woman to the place where the multitude of Chriſtians meet: But knoweſt thou not</hi> (ſaid the <hi>Provoſt</hi>) <hi>that I am to put them all to the Sword? I know it well</hi> (ſaid the woman) <hi>which makes me poſt thitherward ſo faſt, that I may alſo pertake with them of their Martyredom:</hi> which the Provoſt perceiving their zeal to God and Love one to an<g ref="char:EOLhyphen"/>other could not be broken, Like a wiſe and modeſt man, in whom tenderneſs had taken place, gave over, and went to the Emperor, relating the matter, ſaying to him, <hi>take Away my life, thou mayeſt; but to Execute thy Commands herein, I dare not.</hi> And the Lord ſo ordered it, by this means the Emperor's wrath was appeaſed, and the <hi>Chriſtians</hi> had their Liberty.</p>
+            <p>And as for the Objections againſt the Chriſtian Meetings, as aforſaid, they Anſwered, our Religion or religious exerciſes are neither hidden nor unknown, Albeit (ſaid they) we have neither Temples nor Altars, we worſhip our God in ſpirit, we adore him in our hearts, our care is to excerciſe our ſelves in innocency, Juſtice and continuall Supplications; we fly and abhor wickedneſs and theſe are our ſacri<g ref="char:EOLhyphen"/>fices we are ſufficiently known to our ſelves, and the badge whereby we are Known each to other is Innocency and modeſty; thus we Love one another and know not what it is to hate, thus we acknowledge our ſelves brethren, the Children of one Father, followers together of the ſame Faith, and Inheriters of the ſame hope. In our meetings we Affect neither Ambition nor vain Glory; But when we meet it is to call upon God with one heart in our Prayers we pray for Princes and thoſe that govern under them, for principalityes, for Kingdoms that in all things tran<g ref="char:EOLhyphen"/>quility may be Injoyed.</p>
+            <pb n="3" facs="tcp:40640:12"/>
+            <p> Our Meetings are for the nouriſhing of our Faith by holy Admonitions for the Increaſe of our hope, to Confirm us yet more therein to teach and Learn the Doct<g ref="char:EOLhyphen"/>rine of Gods Commandments; we uſe exhortations, correction with divine ſen<g ref="char:EOLhyphen"/>ſures; if any man have failed that they be excluded from the unity of our Aſ<g ref="char:EOLhyphen"/>ſemblies; there are Approved Elders to reprove and Admoniſh, &amp;c. All who are of Ability contribute ſomething monthly or when they will, for none are con<g ref="char:EOLhyphen"/>ſtrained, this ſo gathered is kept for the Churches ſtock, for we Laviſh forth no<g ref="char:EOLhyphen"/>thing thereof upon merry Meetings, but the whole is Imployed for the Cheriſh<g ref="char:EOLhyphen"/>ing the Poor and needy, for the buriall of the Dead, for maintaining of Poor Orphans, to breed ſchollars with, to relieve the Aged that are Impotent. And is beſtowed upon thoſe who are in Priſon, for maintaining the Truth of God.</p>
+            <p>Ought theſe Aſſemblies of Chriſtians (ſaid Ter.) to be ſtiled a Conventicle? in which none have cauſe to complain? do we ever come together to wrong any? this title of a factious meeting (ſaith he) Appertaines to thoſe that conſpire againſt the Godly, who ſhed Innocent Blood; And notwithſtanding be ſure your rigour ſhall increaſe our number. And as for our patient ſuffering, which you term obſtinacy, ſhall ſufficiently declare that the Cauſe for which we ſuffer is ſo con<g ref="char:EOLhyphen"/>demned by man that in the mean time it is approved of God. And although Perſecution Increaſe, yet ſtill our number Increaſed, which ſhewed (ſaid Tertu.) that they which moved them ſo to do was not Juſtly weighed of them which found fault with them. O ye Judges or Juſtices (then ſaid he) who glory in killing of the Chriſtians, condemn and cruſh us to pieces, for ſeeing our God ſuffers us to be thus evil entreated, your Injuſtice ſhall ſet forth our Innocency; and be it known (ſaid they) that God doth not condemn us for our ſufferings, nor is he unable to relieve us, but Gods true ſouldier is not forſaken though he ſuffer; nor in dying periſhes, or is overcome. And that nothing can terrifie or remove us which believe, by this it dayly appeareth, for when we are perſecuted, put in<g ref="char:EOLhyphen"/>to priſon, baniſhed, &amp;c? yet we go not from our confeſſion, but on the contrary the more cruelty is wrought againſt us, the more be they that come to piety and faith by the Name of Jeſus.</p>
+            <p>Moreover, How ſhould we Rebel againſt our Superiors, ſeeing we patiently ſuffer the wrongs offered us on all Hands? How oft have the mad Multitude in<g ref="char:EOLhyphen"/>vaded us? only by their own Authority, aſſailing us, now with Fire, then with Stones. And not only the Blind Multitude rejoyce at the Cruelties which are ex<g ref="char:EOLhyphen"/>erciſed againſt us, but even the Principal in Authority, who rule over them; but where is the Vengeance that hath been taken by us for all this? God forbid (ſaid they) that a little Fire kindled by Men ſhould take Vengeance, for the contempt of the Doctrine of God. Alas! do you think (ſaid they) that Mul<g ref="char:EOLhyphen"/>titudes of Men are wanting to us? Strange Nations that War againſt you have their Territories limitted; but we Chriſtians are diſperſed your Citys, Villages, yea, your Houſes are repleniſhed with thoſe of our Profeſſion, only your Temples we leave to your ſelves, ſo that unleſs we were taught rather to be killed then to kill, we might, and that without Armies aſſail you: but the true Chriſtian is Enemy to no Man living, much leſs to his Prince, whom he knows to be ordained of his God, in which reſpect, he Loveth, Reverenceth, and Honoureth him, we give honour to our King, then (ſaid they) ſo far as is Lawful for us, and Expedient for him.</p>
+            <div type="examples">
+               <head>More Notes taken out of the <hi>Mirrour of the Martyrs</hi> of the Sayings of others.</head>
+               <p>
+                  <hi>Pag. 320.</hi> WIlliam Thorp <hi>ſaid,</hi> Truth hath theſe Properties, that where-ever it is Op<g ref="char:EOLhyphen"/>poſed, yet it gives a ſweet Smell; and the more the Enemies Reſiſt, the greater ſweet Savour cometh thereof; which Heavenly Smell will not vaniſh away like Smoke in the Wind, but will deſcend and reſt in ſome Clean Soul that thirſteth thereafter.</p>
+               <p>
+                  <hi>Pag. 317.]</hi> Kilian, <hi>a</hi> Dutch <hi>Schoolmaſter (to ſuch as askt him, if he loved not his Wife and Children) ſaid,</hi> Yes; if all the World were Gold, I would give it to live with them, though it were but in a Priſon; yet is my Soul and my Lord Chriſt Dearer to me than all things whatſoever.</p>
+               <pb n="4" facs="tcp:40640:3" rendition="simple:additions"/>
+               <p> P. 315.] <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thank<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God that his broken Legg ſuffer'd him not to flee Sufferings.</p>
+               <p>
+                  <hi>Pag. 313.]</hi> George Carpenter <hi>ſaid,</hi> A Town was not ſo dear to him as his Wife and Children; yet for Chriſts ſake <hi>(ſaid he)</hi> I will forſake them all Clearfully.</p>
+               <p>
+                  <hi>Pag. 310.]</hi> Chr. Marſhall <hi>ſaid,</hi> From Eternal he was a Sheep deſtinated to the Slaugh<g ref="char:EOLhyphen"/>ter; and now I am going to the Shambles; Gold muſt be tryed.</p>
+               <p>
+                  <hi>Pag. 310.]</hi> Said one, You may throw my Body down, but my Soul mounts upwards. Your Blaſphemtes more offend my Soul, than your Torments do my Body.</p>
+               <p>Peter Berger <hi>being at the Stake, ſaid,</hi> I ſee the Heavens opened: <hi>and beholding the Multitude, ſaid,</hi> Great is the Harveſt; Lord, ſend thy Labourers.</p>
+               <p>
+                  <hi>Pag. 302.</hi> Cyprian <hi>being ſolicited by certain Courtiers to</hi> conſider deliberately and to ſpair his Life, and diſſemble his Religion; <hi>anſwered,</hi> In ſo holy a cauſe there need no ſuch Deliberation.</p>
+               <p>
+                  <hi>Pag. 258.]</hi> Tho. Spurdame <hi>ſaid,</hi> God muſt have his due, and <hi>Caeſar</hi> his. <hi>He ſaid,</hi> He muſt give his, Sold to God, and all that belongs thereunto.</p>
+               <p>
+                  <hi>Pag. 318.]</hi> Fra. Cullver <hi>being to ſuffer Death with his two Sons, ſaid theſe words,</hi> Sheep we are for the Slaughter this is <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> New Thing.</p>
+               <p>
+                  <hi>Pag. 304.]</hi> Saluptus, <hi>whom the Emperor</hi> Julian <hi>imployed to perſecute the</hi> Chriſtians, <hi>ſaw how they were carried through their Sufferings, and that their Cruelty nothing prevailed, he gave <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>is Report to the Emperor,</hi> That if he dealt thus with them, it would turn to their Glory, but his Shame.</p>
+               <p>
+                  <hi>Pag. 194.]</hi> Brown (<hi>ſaid</hi> Bonnet) You have been before me many a time and oft, and I have travelled with thee to win<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thee fr<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> thine Errors, yet thou and ſuch like have and do report, that I <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nt to ſeek thy Bloo<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Yea, my Lord (<hi>ſaid</hi> Brown) ye be a Blood<g ref="char:EOLhyphen"/>ſucker indeed.</p>
+               <p>
+                  <hi>Pag. 226.]</hi> Bonner <hi>ſaid to one,</hi> 
+                  <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> call me <hi>BLOODY BONNER;</hi> Aven<g ref="char:EOLhyphen"/>ge<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> on you all, I would fain be rid o<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> but you have a Delight in Burning; but if I <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Will I would <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, and <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> you</p>
+               <p>
+                  <hi>Pag. 23.]</hi> Roger Clark <hi>ſaid,</hi> Eight for your God; for he hath not long to continue.</p>
+               <p>
+                  <hi>Pag. 263.]</hi> Robert Coe <hi>being demanded by the Biſhop of</hi> Norwich, Whether he would Obey the King's Laws? <hi>Anſwered,</hi> As far as they agree with God's Word I will Obey them. <hi>The Biſhop ſaid,</hi> Whether they Agree or not Agree with God's Word, we be bound to Obey them, though the King were an Infidel. Coe <hi>ſaid,</hi> If <hi>Shedrech, Me<g ref="char:EOLhyphen"/>ſhech</hi> and <hi>Abednego</hi> had ſo done; <hi>Nebuchadnezzer</hi> had not Confeſſed the True God.</p>
+               <p>Roger Holand <hi>ſpake in the Spirit of Prophecy concerning the Powers in his Age, tells them,</hi> Their Authority was from God; and that by his Sufferings they did Perſecute them; but this <hi>(ſaith he)</hi> I dare be bold to ſay, which by his Spirit I am <hi>MOVED</hi> to ſpeak, God will ſhorter you Hand of Cruelty. <hi>Which did ſo come to paſs.</hi>
+               </p>
+            </div>
+            <div type="testimony">
+               <head>Cardinal <hi>Woolſey</hi>'s Teſtimony about PRINTING, and his Lamentation to the POPE</head>
+               <p>
+                  <hi>THe very Art of PRINTING was at the firſt thought Dangerous, becauſe it was looked on as a thing like to introduce ſeveral Opinions in Religion;</hi> Cardinal Woolſey, <hi>in a Letter of his to the</hi> Pope, <hi>hath this Paſſage about it.</hi> That his Holineſs could not be ignorant what divers Effects the New Invention of Printing had pro<g ref="char:EOLhyphen"/>duced; for as it had brought in and voſtored Books and Learning, ſo together it hath been the Occaſion of theſe Sects and Schiſms, which daily appeared in the World, but chiefly in <hi>Germany,</hi> where men begin now to call in queſtion the preſent Faith and Tenents of the Church, and to examin how far Religion is departed from its primitive Inſtitution; and that which particularly was moſt to be lamented, they had exhorted Lay and Ordinary Men to Rend the Scriptures, and to Pray in their vulgar Tongue; that if this were ſuffered, beſides all other Dangers the common People at laſt might come to believe, that there was not ſo much uſe of the Clergy; for if men were perſwaded once they could make their own way to God, and that Prayers in their Native and Ordinary Language might pierce Heaven as well as in Latin, how much would the Authority of the <hi>Maſs</hi> fall! how prejudicial might this prove unto all our Eccleſiaſtical Orders loved! <bibl>
+                     <hi>Harbert, Hiſt. of</hi> Hen. <hi>8.</hi>
+                  </bibl>
+               </p>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
